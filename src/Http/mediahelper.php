@@ -1,6 +1,6 @@
 <?php
 
-namespace Sahakavatar\Media\Http;
+namespace Btybug\Media\Http;
 
 use App\Models\Setting;
 use App\Models\Term;
@@ -9,7 +9,7 @@ use App\Modules\Media\Models\MediaVariation;
 use App\Modules\Settings\Models\Settings;
 use File;
 use Image;
-use Sahakavatar\Cms\Helpers\helpers;
+use Btybug\Cms\Helpers\helpers;
 use Validator;
 
 /**

@@ -1,4 +1,4 @@
-<?php namespace Sahakavatar\Media\Http\Controllers;
+<?php namespace Btybug\Media\Http\Controllers;
 
 /**
  * Created by PhpStorm.
